@@ -3,7 +3,7 @@ and teaching assistants to easily store grades for their courses while letting
 students and their parents check out their grades hassle-free.
 This was done as a project for the OOP course at my uni, it managed to finally
 drill in all OOP concepts and most design patterns in my head properly.
-Due note that some features of this app are completely unintuitive in my
+Do note that some features of this app are completely unintuitive in my
 opinion, but were the behaviour according to the assignment.
 
 If you want to try it out, open up the files in src/ directory in whatever IDE
